@@ -1,1 +1,1 @@
-basic description of the project
+basic description of the project.
